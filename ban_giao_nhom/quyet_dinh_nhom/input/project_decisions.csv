@@ -1,0 +1,6 @@
+decision_id,chosen_option,reviewer,reviewed_at,reason
+P1,conservative_withhold,Nguyen Tran Gia Bao,2026-10-28,Đồng ý cả 5 đề xuất (trả lời trong chat với Claude ngày 28/10/2026)
+P2,base_gallery_3,Nguyen Tran Gia Bao,2026-10-28,Đồng ý cả 5 đề xuất (trả lời trong chat với Claude ngày 28/10/2026)
+P3,external_test_only,Nguyen Tran Gia Bao,2026-10-28,Đồng ý cả 5 đề xuất (trả lời trong chat với Claude ngày 28/10/2026)
+P4,fpir_05_empirical,Nguyen Tran Gia Bao,2026-10-28,Đồng ý cả 5 đề xuất (trả lời trong chat với Claude ngày 28/10/2026)
+P5,direct_resize_digiface,Nguyen Tran Gia Bao,2026-10-28,Đồng ý cả 5 đề xuất (trả lời trong chat với Claude ngày 28/10/2026)
